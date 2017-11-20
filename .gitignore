@@ -4,3 +4,4 @@ node/*/node_modules
 */.idea/
 */*/.idea/
 */*/*/.idea/
+p5js/node_modules
